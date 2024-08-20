@@ -1,4 +1,4 @@
-# bhagvat_gita
+# BHAGVAT_GITA
 
 # Project Technologies:
 - Dart language
