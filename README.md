@@ -12,4 +12,5 @@
 -   : Every verse in the Bhagvat Geeta is given special attention with a dedicated detail screen. Users can access in-depth explanations, commentaries, and interpretations of each verse, allowing for a deeper understanding and reflection on the teachings.
 -   Recognizing the diversity of languages in which the Bhagvat Geeta has been translated, "Departure" is a multi-language app. It provides support for various languages, enabling users to read and study the Bhagvat Geeta in their preferred language, making the app inclusive and accessible to a wider audience.
 
-<img src="https://github.com/user-attachments/assets/c60985da-b094-46d6-959e-f0d7a40a3571" alt="App Screenshot" width="200" height="400"/>
+
+<img src="https://github.com/user-attachments/assets/c60985da-b094-46d6-959e-f0d7a40a3571" alt="App Screenshot" width="200" height="400"/>
