@@ -1,16 +1,9 @@
 # bhagvat_gita
 
-A new Flutter project.
+# Project Technologies:
+- Dart language
+- Flutter framework with MVC and Provider architecture
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# about this app
+- Users can like or bookmark specific verses, allowing them to create a personalized collection of their favorite teachings. The app utilizes local storage to savethese preferences and provides a dedicated page to display the liked verses for quick reference
+-  offers a visually appealing experience with customizable themes. Users can switch between light and dark themes based on their preferences, ensuring comfortable reading in different lighting conditions
